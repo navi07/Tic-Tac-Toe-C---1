@@ -1,0 +1,9 @@
+c:\users\patryk\documents\visual studio 2017\Projects\Tic_Tac_Toe_CSharp\Tic_Tac_Toe_CSharp\bin\Debug\Tic_Tac_Toe_CSharp.exe
+c:\users\patryk\documents\visual studio 2017\Projects\Tic_Tac_Toe_CSharp\Tic_Tac_Toe_CSharp\bin\Debug\Tic_Tac_Toe_CSharp.pdb
+c:\users\patryk\documents\visual studio 2017\Projects\Tic_Tac_Toe_CSharp\Tic_Tac_Toe_CSharp\obj\Debug\Tic_Tac_Toe_CSharp.Properties.Resources.resources
+c:\users\patryk\documents\visual studio 2017\Projects\Tic_Tac_Toe_CSharp\Tic_Tac_Toe_CSharp\obj\Debug\Tic_Tac_Toe_CSharp.csproj.GenerateResource.Cache
+c:\users\patryk\documents\visual studio 2017\Projects\Tic_Tac_Toe_CSharp\Tic_Tac_Toe_CSharp\obj\Debug\Tic_Tac_Toe_CSharp.exe
+c:\users\patryk\documents\visual studio 2017\Projects\Tic_Tac_Toe_CSharp\Tic_Tac_Toe_CSharp\obj\Debug\Tic_Tac_Toe_CSharp.pdb
+c:\users\patryk\documents\visual studio 2017\Projects\Tic_Tac_Toe_CSharp\Tic_Tac_Toe_CSharp\obj\Debug\Tic_Tac_Toe_CSharp.Form1.resources
+c:\users\patryk\documents\visual studio 2017\Projects\Tic_Tac_Toe_CSharp\Tic_Tac_Toe_CSharp\obj\Debug\Tic_Tac_Toe_CSharp.Form2.resources
+c:\users\patryk\documents\visual studio 2017\Projects\Tic_Tac_Toe_CSharp\Tic_Tac_Toe_CSharp\obj\Debug\Tic_Tac_Toe_CSharp.csprojResolveAssemblyReference.cache
